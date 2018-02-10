@@ -2,3 +2,24 @@
     text-decoration: none;
 
 }
+.chulsa {
+    z-index: 20px;
+}
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
