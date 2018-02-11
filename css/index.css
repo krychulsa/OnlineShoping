@@ -1,25 +1,69 @@
-.ch-non-underline{
+.ch-non-underline {
     text-decoration: none;
 
 }
+
 .chulsa {
     z-index: 20px;
 }
-.navbar-login
-{
+
+.navbar-login {
     width: 305px;
     padding: 10px;
     padding-bottom: 0;
 }
 
-.navbar-login-session
-{
+.navbar-login-session {
     padding: 10px;
     padding-bottom: 0;
     padding-top: 0;
 }
 
-.icon-size
-{
+.icon-size {
     font-size: 87px;
+}
+
+.top20 {
+    padding-top: 20px;
+}
+
+.top10 {
+    padding-top: 10px;
+}
+
+.timenewroman {
+    font-family: "Times New Roman";
+}
+
+.footer-bottom {
+    padding: 20px 0 10px;
+    border-top: 1px solid #666;
+    background: black;
+}
+
+.copyright-text p {
+    color: #ccc;
+    margin-top: 9px;
+    margin-bottom: 0;
+}
+
+.social-link li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.social-link li a {
+    color: #ccc;
+    border: 1px solid #ccc;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    transition: .5s;
+}
+.wrap{
+    width: 100%;
 }
